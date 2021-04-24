@@ -1,0 +1,87 @@
+#header {
+    background-color: #FF0004;
+    height: 65px;
+}
+#header #navbar {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 50px;
+    margin-left: 494px;
+    margin-top: 0px;
+    text-decoration: none;
+    
+}
+#header #cart {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: bold;
+    float: right;
+    color: black;
+    margin-top: 21px;
+    font-size: 30px;
+    margin-right: 23px;
+    text-decoration: none;
+}
+
+#pizza{
+    margin-left: 15%;
+}
+#order{
+    margin-top: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+#element #tasty {
+    margin-top: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 0px;
+}
+#element #elementwith table {
+    margin-left: 500px;
+}
+tr #left p {
+    text-align: left;
+}
+tr #left button {
+    color: #FFFFFF;
+    background-color: #FF0004;
+    border-radius: 14px;
+    width: 102px;
+    height: 33px;
+    font-size: small;
+    font-weight: bolder;
+    margin-left: -204px;
+}
+tr #left #tile {
+    font-size: 32px;
+}
+#ctable{
+    margin-left: 500px;
+}
+#reset{
+    color: #FFFFFF;
+    background-color: #FF0004;
+    border-radius: 14px;
+    width: 110px;
+    height: 35px;
+    font-size: small;
+    font-weight: bolder;
+    margin-left: 45%;
+    margin-top: 2%;
+}
+#empty{
+    margin-top: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 0px;
+
+}
