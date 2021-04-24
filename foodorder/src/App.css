@@ -58,6 +58,7 @@ tr #left button {
     font-size: small;
     font-weight: bolder;
     margin-left: -204px;
+    cursor: pointer;
 }
 tr #left #tile {
     font-size: 32px;
